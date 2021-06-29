@@ -3,7 +3,11 @@
 |Platform | Version|
 |---|---|
 |Ubuntu|16.04|
-|gcc|
+|gcc|5.4.0|
+|ldd|2.23|
+|cmake|3.5.1|
+|python|3.6.8|
+|conda|4.10.1|
 
 A dummy docker environment for several NLP tasks.
 
