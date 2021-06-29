@@ -23,7 +23,7 @@ Since docker has GUI tools for `Mac` and `Windows` platform, they didn't offer a
 
 ### Run
 
-This package is shipped with a `Dockerfile` which `buil.sh` will find automatically and execute the instruction inside to build the docker image, simply run the following command:
+This package is shipped with a `Dockerfile` which `build.sh` will find automatically and execute the instruction inside to build the docker image, simply run the following command:
 
 ```shell
 git clone https://github.com/rancheng/NLP_test_docker
